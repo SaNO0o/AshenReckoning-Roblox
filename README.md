@@ -1,5 +1,6 @@
 # 🗡️ Ashen Reckoning
-## A Professional Dark Souls-Like Roblox Game
+## A Professional Dark Souls-Like Roblox Game currently in development
+
 
 **Ashen Reckoning** is a fully-featured, production-ready Roblox game inspired by Bloodborne, Lies of P, Sekiro, Dark Souls, and Elden Ring.
 
